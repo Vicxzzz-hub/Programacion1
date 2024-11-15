@@ -1,0 +1,10 @@
+C:\Users\joard\source\repos\PRACTICA 17\PRACTICA 17\obj\Debug\PRACTICA 17.csproj.AssemblyReference.cache
+C:\Users\joard\source\repos\PRACTICA 17\PRACTICA 17\obj\Debug\PRACTICA_17.Form1.resources
+C:\Users\joard\source\repos\PRACTICA 17\PRACTICA 17\obj\Debug\PRACTICA_17.Properties.Resources.resources
+C:\Users\joard\source\repos\PRACTICA 17\PRACTICA 17\obj\Debug\PRACTICA 17.csproj.GenerateResource.cache
+C:\Users\joard\source\repos\PRACTICA 17\PRACTICA 17\obj\Debug\PRACTICA 17.csproj.CoreCompileInputs.cache
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA 17\PRACTICA 17\obj\Debug\PRACTICA 17.csproj.AssemblyReference.cache
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA 17\PRACTICA 17\obj\Debug\PRACTICA_17.Form1.resources
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA 17\PRACTICA 17\obj\Debug\PRACTICA_17.Properties.Resources.resources
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA 17\PRACTICA 17\obj\Debug\PRACTICA 17.csproj.GenerateResource.cache
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA 17\PRACTICA 17\obj\Debug\PRACTICA 17.csproj.CoreCompileInputs.cache
