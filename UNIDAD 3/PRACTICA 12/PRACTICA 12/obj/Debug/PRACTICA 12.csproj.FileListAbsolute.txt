@@ -1,0 +1,20 @@
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\PRACTICA 12\PRACTICA 12\bin\Debug\PRACTICA 12.exe.config
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\PRACTICA 12\PRACTICA 12\bin\Debug\PRACTICA 12.exe
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\PRACTICA 12\PRACTICA 12\bin\Debug\PRACTICA 12.pdb
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\PRACTICA 12\PRACTICA 12\obj\Debug\PRACTICA 12.csproj.AssemblyReference.cache
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\PRACTICA 12\PRACTICA 12\obj\Debug\PRACTICA_12.Form1.resources
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\PRACTICA 12\PRACTICA 12\obj\Debug\PRACTICA_12.Properties.Resources.resources
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\PRACTICA 12\PRACTICA 12\obj\Debug\PRACTICA 12.csproj.GenerateResource.cache
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\PRACTICA 12\PRACTICA 12\obj\Debug\PRACTICA 12.csproj.CoreCompileInputs.cache
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\PRACTICA 12\PRACTICA 12\obj\Debug\PRACTICA 12.exe
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\PRACTICA 12\PRACTICA 12\obj\Debug\PRACTICA 12.pdb
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA 12\PRACTICA 12\bin\Debug\PRACTICA 12.exe.config
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA 12\PRACTICA 12\bin\Debug\PRACTICA 12.exe
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA 12\PRACTICA 12\bin\Debug\PRACTICA 12.pdb
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA 12\PRACTICA 12\obj\Debug\PRACTICA 12.csproj.AssemblyReference.cache
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA 12\PRACTICA 12\obj\Debug\PRACTICA_12.Form1.resources
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA 12\PRACTICA 12\obj\Debug\PRACTICA_12.Properties.Resources.resources
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA 12\PRACTICA 12\obj\Debug\PRACTICA 12.csproj.GenerateResource.cache
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA 12\PRACTICA 12\obj\Debug\PRACTICA 12.csproj.CoreCompileInputs.cache
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA 12\PRACTICA 12\obj\Debug\PRACTICA 12.exe
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\PRACTICA 12\PRACTICA 12\obj\Debug\PRACTICA 12.pdb
